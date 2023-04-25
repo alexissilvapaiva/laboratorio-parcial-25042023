@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace AplicandoSOLID
 {
-    internal class Avion : ITransporteBasic, ITransporteVolar, IGuardarEnBD
+    public class Tren : ITransporteBasic, IGuardarEnBD
     {
         public string _nombre;
         public int _velocidadActual;
         public int _velocidadMaxima;
-        public int _alturaActual;
-        public int _alturaMaxima;
 
         public void Acelerar(int velocidad)
         {
@@ -34,26 +32,11 @@ namespace AplicandoSOLID
             }
         }
 
-        public void Volar(int altitud)
-        {
-            if ((this._alturaActual + altitud) < 0)
-            {
-                this._alturaActual = 0;
-            }
-            else if ((this._alturaActual + altitud) > this._alturaMaxima)
-            {
-                this._alturaActual = this._alturaMaxima;
-            }
-            else
-            {
-                this._alturaActual += altitud;
-            }
-        }
-
         public void guardarEnBD()
         {
-            /*TransporteRepository repository = new TransporteRepository();
+          /*  TransporteRepository repository = new TransporteRepository();
             repository.guardar(this);*/
         }
+
     }
 }

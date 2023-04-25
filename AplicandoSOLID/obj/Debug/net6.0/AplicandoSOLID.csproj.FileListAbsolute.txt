@@ -1,0 +1,15 @@
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\AplicandoSOLID.exe
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\AplicandoSOLID.deps.json
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\AplicandoSOLID.runtimeconfig.json
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\AplicandoSOLID.dll
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\ref\AplicandoSOLID.dll
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\bin\Debug\net6.0\AplicandoSOLID.pdb
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.csproj.AssemblyReference.cache
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.AssemblyInfoInputs.cache
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.AssemblyInfo.cs
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.csproj.CoreCompileInputs.cache
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.dll
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\ref\AplicandoSOLID.dll
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.pdb
+D:\Laboratorio\primer-parcial-solid-transporte-main\AplicandoSOLID\obj\Debug\net6.0\AplicandoSOLID.genruntimeconfig.cache
